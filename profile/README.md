@@ -15,7 +15,7 @@
 ## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=user&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> About
 
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=building&color=0d87cd" align="absmiddle" /> Running **[polo.blue](https://polo.blue)** — Volkswagen Polo 6R resources
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=book&color=0d87cd" align="absmiddle" /> Manual, catalog, spare parts, and community tools
+- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=database&color=0d87cd" align="absmiddle" /> Manual, catalog, spare parts, and community tools
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=target&color=0d87cd" align="absmiddle" /> Focused on **performance** — fast, modern web stack
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=map-pin&color=0d87cd" align="absmiddle" /> Based in Poland
 
