@@ -46,7 +46,7 @@
 ## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=star&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> Featured Projects
 
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=book&color=0d87cd" align="absmiddle" /> **[catalog.polo.blue](https://catalog.polo.blue)** — Volkswagen Polo 6R parts catalog
+- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=database&color=0d87cd" align="absmiddle" /> **[catalog.polo.blue](https://catalog.polo.blue)** — Volkswagen Polo 6R parts catalog
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=eye&color=0d87cd" align="absmiddle" /> **[polo.blue](https://polo.blue)** — Blog, manual & community hub for Polo 6R owners
 
 ---
